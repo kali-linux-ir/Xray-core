@@ -1,4 +1,4 @@
-# Project X
+# Project x
 
 [Project X](https://github.com/XTLS) originates from XTLS protocol, provides a set of network tools such as [Xray-core](https://github.com/XTLS/Xray-core).
 
